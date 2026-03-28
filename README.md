@@ -4,7 +4,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/sercanbey33/RuS-Config-V1.5)
-[![Stars](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com)
 
 </div>
 
